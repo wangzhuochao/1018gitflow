@@ -1,16 +1,18 @@
 <template>
   <div id="app">
     我是BOOS！
+    <!--lrj-->
+    <Login></Login>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Login from './components/Login.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Login
   }
 }
 </script>
