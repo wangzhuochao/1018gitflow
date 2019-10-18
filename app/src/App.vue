@@ -2,6 +2,7 @@
   <div id="app">
     我是BOOS！
     <!--lrj-->
+    我是路人乙的注册!!!
     <Login></Login>
   </div>
 </template>
